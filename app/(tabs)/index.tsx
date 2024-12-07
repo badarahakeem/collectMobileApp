@@ -47,7 +47,7 @@ export default function TabNavigator() {
           component={CollectForm}
           options={{
             headerShown: false,
-            tabBarLabel: "Collecte",
+            tabBarLabel: "Cotisation",
           }}
         />
       )}

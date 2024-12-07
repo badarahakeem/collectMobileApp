@@ -7,7 +7,7 @@ function Login() {
   const [username, setUsername] = useState('') 
   const [password, setPassword] = useState('') 
   const [error, setError] = useState('') 
-  const router = useRouter() // Permet de naviguer vers un autre écran avec expo-router.
+  const router = useRouter() 
 
   const handleLogin = async () => {
     if (!username || !password) {
