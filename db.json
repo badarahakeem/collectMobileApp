@@ -1,0 +1,168 @@
+{
+  "users": [
+    {
+      "username": "eidenreich94",
+      "password": "xMynp9fqfPqKlH7",
+      "token": "qezoWXkgUyTKQ3u",
+      "id": "1"
+    },
+    {
+      "username": "Doeichel32",
+      "password": "8_NCcz6o2iL0KUQ",
+      "token": "08OE4zSpt0qyG7K",
+      "id": "2"
+    },
+    {
+      "username": "Nicola55",
+      "password": "qCzem0w8c4pqCu2",
+      "token": "xS6vgCMOuFBE89C",
+      "id": "3"
+    },
+    {
+      "username": "Luciuaniel1",
+      "password": "ofN8p6znrDVThEm",
+      "token": "iWN71G84cuHY6iR",
+      "id": "4"
+    },
+    {
+      "username": "George84",
+      "password": "wVSBfnF6vdaQ03C",
+      "token": "keS7QoADaLKEfYR",
+      "id": "5"
+    },
+    {
+      "username": "Dianrquardt3",
+      "password": "vyXs4HDBnvM4Ew6",
+      "token": "7nUygsjeUIeSiEw",
+      "id": "6"
+    },
+    {
+      "username": "Emmett_Grady",
+      "password": "Buf6CkZ_9exBusR",
+      "token": "aA8T9axLCL121gm",
+      "id": "9"
+    },
+    {
+      "username": "Adelia26",
+      "password": "Bp1iR07UHUT_KJ3",
+      "token": "DEyU93Crw2p8Q2u",
+      "id": "10"
+    }
+  ],
+  "bus": [
+    {
+      "nom": "Convertible",
+      "matricule": "Colorado",
+      "id": "1"
+    },
+    {
+      "nom": "Wagon",
+      "matricule": "Model 3",
+      "id": "2"
+    },
+    {
+      "nom": "Hatchback",
+      "matricule": "Volt",
+      "id": "3"
+    },
+    {
+      "nom": "SUV",
+      "matricule": "Grand Cherokee",
+      "id": "4"
+    },
+    {
+      "nom": "Convertible",
+      "matricule": "Civic",
+      "id": "5"
+    },
+    {
+      "nom": "Crew Cab Pickup",
+      "matricule": "Fortwo",
+      "id": "6"
+    },
+    {
+      "nom": "Hatchback",
+      "matricule": "XC90",
+      "id": "7"
+    },
+    {
+      "nom": "Cargo Van",
+      "matricule": "Beetle",
+      "id": "8"
+    },
+    {
+      "nom": "Hatchback",
+      "matricule": "LeBaron",
+      "id": "9"
+    }
+  ],
+  "collected": [
+    {
+      "montant": "13620",
+      "echeance": 26,
+      "telephone": 43,
+      "id": "1"
+    },
+    {
+      "montant": "77253",
+      "echeance": 46,
+      "telephone": 78,
+      "id": "2"
+    },
+    {
+      "montant": "96535",
+      "echeance": 2,
+      "telephone": 11,
+      "id": "3"
+    },
+    {
+      "montant": "38789",
+      "echeance": 68,
+      "telephone": 89,
+      "id": "4"
+    },
+    {
+      "montant": "35392",
+      "echeance": 43,
+      "telephone": 62,
+      "id": "5"
+    },
+    {
+      "montant": "50991",
+      "echeance": 80,
+      "telephone": 61,
+      "id": "6"
+    },
+    {
+      "montant": "107.97",
+      "echeance": 31,
+      "telephone": 20,
+      "id": "7"
+    },
+    {
+      "montant": "12003",
+      "echeance": 37,
+      "telephone": 27,
+      "id": "8"
+    },
+    {
+      "montant": "59016",
+      "echeance": 100,
+      "telephone": 61,
+      "id": "9"
+    },
+    {
+      "montant": "66939",
+      "echeance": 31,
+      "telephone": 99,
+      "id": "10"
+    },
+    {
+      "id": "4",
+      "montant": "38789",
+      "bus": "59",
+      "echeance": 68,
+      "telephone": 89
+    }
+  ]
+}
